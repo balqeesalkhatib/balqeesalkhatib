@@ -15,7 +15,7 @@ Strong team player with problem-solving abilities. 💪
 </a>
 
 ### 🌅 Frontend Development
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=balqeesalkhatib&show_icons=true&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true" alt="balqeesalkhatib stats card" /></p>
+
 <a href="https://reactjs.org/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" height="40" width="40" />
 </a>
@@ -45,6 +45,7 @@ Strong team player with problem-solving abilities. 💪
 </a>
 
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=balqeesalkhatib&show_icons=true&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true" alt="balqeesalkhatib stats card" /></p>
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=balqeesalkhatib&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&layout=compact" alt="balqeesalkhatib stats card" /></p>
 
