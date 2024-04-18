@@ -5,6 +5,8 @@
 
 I'm a highly motivated full-stack developer, knowledgeable in backend and frontend development including JS, Mongo DB, Node Js, and React. 💻
 Strong team player with problem-solving abilities. 💪
+
+## ⚓ Skills 
 <a href="https://nodejs.org" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="40" width="40" />
 </a>
