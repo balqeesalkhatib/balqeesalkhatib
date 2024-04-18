@@ -13,14 +13,14 @@ Strong team player with problem-solving abilities. 💪
 
 ## ⚓ Skills 
 
-### 🗻 Programming Languages
+#### 🗻 Programming Languages
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" width="40" />
 </a>
 
 
-### 🌅 Frontend Development
+#### 🌅 Frontend Development
 
 
 <a href="https://reactjs.org/" target="blank">
@@ -31,7 +31,7 @@ Strong team player with problem-solving abilities. 💪
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" height="40" width="40" />
 </a>
 
-### 🌇 Backend Development 
+#### 🌇 Backend Development 
 
 <a href="https://nodejs.org" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="40" width="40" />
@@ -45,7 +45,7 @@ Strong team player with problem-solving abilities. 💪
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="40" width="40" />
 </a>
 
-### 🎡 Software
+#### 🎡 Software
 <a href="https://www.mathworks.com/" target="blank">
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab" height="40" width="40" />
 </a>
