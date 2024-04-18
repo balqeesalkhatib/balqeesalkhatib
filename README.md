@@ -5,7 +5,9 @@
 
 ## 🚀 About Me
 
-I'm a highly motivated full-stack developer, knowledgeable in backend and frontend development including JS, Mongo DB, Node Js, and React. 💻
+I'm a highly motivated full-stack developer, knowledgeable in backend and frontend development including JS,
+<br/> 
+Mongo DB, Node Js, and React. 💻
 <br/>
 Strong team player with problem-solving abilities. 💪
 
