@@ -34,7 +34,7 @@ Strong team player with problem-solving abilities. 💪
 
 ### 📍 Database
 <a href="https://www.mongodb.com/" target="blank">
-<img align="center" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)" alt="MongoDB" height="40" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="40" width="40" />
 </a>
 
 ### 🎡 Software
