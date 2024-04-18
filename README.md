@@ -1,9 +1,10 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5wLpcq-9s2h1eNDeU2GybtkXHHpt3FwDVLQ&s" width="400px" height="100px" alt="full stack"/>
 
-# Hi, I'm Balqees Alkhatib! 👋
+# Hi, I'm Balqees Alkhatib! 👋 😍
 ## 🚀 About Me
 
-I'm a full stack developer...
+I'm a highly motivated full-stack developer, knowledgeable in backend and frontend development including JS, Mongo DB, Node Js, and React. 💻
+Strong team player with problem-solving abilities. 💪
 <a href="https://nodejs.org" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="40" width="40" />
 </a>
