@@ -45,7 +45,11 @@ Strong team player with problem-solving abilities. 💪
 <img align="center" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" height="40" width="40" />
 </a>
 
+## 📱 Connect with me
 
+<a>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=balqeesalkhatib&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&layout=compact" alt="balqeesalkhatib stats card" /></p>
