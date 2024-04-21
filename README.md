@@ -63,6 +63,7 @@ Strong team player with problem-solving abilities. 💪
 
 </div>
 
+### 💻Coding Activity
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=balqeesalkhatib&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&layout=compact" alt="balqeesalkhatib stats card" /></p>
 
