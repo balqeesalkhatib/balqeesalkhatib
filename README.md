@@ -77,3 +77,4 @@ Strong team player with problem-solving abilities. 💪
 
 [github]: https://github.com/balqeesalkhatib
 [email]: mailto:balqees.alkhateb@gmail.com
+[linkedin]: http://www.linkedin.com/in/balqeesalkhateeb
