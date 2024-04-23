@@ -1,4 +1,4 @@
-[![MasterHead] (https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5wLpcq-9s2h1eNDeU2GybtkXHHpt3FwDVLQ&s)](https://github.com/balqeesalkhatib)
+[![MasterHead] (https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5wLpcq-9s2h1eNDeU2GybtkXHHpt3FwDVLQ&s)]
 
 # Hi, I'm Balqees Alkhatib! 👋 😍
 
