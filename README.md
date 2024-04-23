@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQmBTwNJ5UmvOVgICKA-KfU7as1qO786AZfQ&s)](https://github.com/balqeesalkhatib/balqeesalkhatib)
+[![MasterHead](https://images.wallpapersden.com/image/download/i-love-coding-log_bW5taWiUmZqaraWkpJRobWllrWdpZWU.jpg)](https://github.com/balqeesalkhatib/balqeesalkhatib)
 
 # Hi, I'm Balqees Alkhatib! 👋 😍
 
