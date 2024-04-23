@@ -12,7 +12,7 @@ Mongo DB, Node Js, and React. 💻
 Strong team player with problem-solving abilities. 💪
 
 ## ⚓ Skills 
-
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 #### 🗻 Programming Languages
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank">
