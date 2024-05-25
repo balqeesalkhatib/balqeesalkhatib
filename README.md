@@ -39,6 +39,7 @@ Strong team player with problem-solving abilities. 💪
 <img align="center" src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/logo/logomark-colored.svg" alt="Chakra UI" height="40" width="40" />
 </a>
 
+
 #### 🌇 Backend Development 
 
 <a href="https://nodejs.org" target="blank">
