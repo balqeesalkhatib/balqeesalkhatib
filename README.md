@@ -36,8 +36,9 @@ Strong team player with problem-solving abilities. 💪
 </a>
 
 <a href="https://chakra-ui.com/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/logo/logomark-colored.svg" alt="Chakra UI" height="40" width="40" />
+  <img align="center" src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/logo/logo-colored-text.png" alt="Chakra UI" height="40" width="auto" />
 </a>
+
 
 
 
